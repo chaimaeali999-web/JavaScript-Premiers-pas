@@ -1,4 +1,4 @@
-let chaymae1 =  1
-let chaymae2= 4
-let somme = chaymae1 + chaymae2 ;
-console.log("La somme est : " + somme);
+let mon project1 = 10 
+let mon project3 = 5
+let somme mon project 1+ mon project3;
+console.log ("la somme est :"+ somme );
