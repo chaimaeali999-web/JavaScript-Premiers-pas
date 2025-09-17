@@ -1,4 +1,4 @@
-let nombre1 = 10;
-let nombre2 = 5;
-let somme = nombre1 + nombre2;
+let chaymae1 =  1
+let chaymae2= 4
+let somme = chaymae1 + chaymae2 ;
 console.log("La somme est : " + somme);
